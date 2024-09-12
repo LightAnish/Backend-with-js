@@ -1,0 +1,3 @@
+[submodule "second projectt"]
+	path = second projectt
+	url = https://github.com/LightAnish/Backend-with-js.git
